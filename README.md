@@ -45,4 +45,4 @@ ls
 ```
 
 #### Now What?
-For more details about running angular apps with nanobox visit [guides.nanobox.io/nodejs/angular/](https://guides.nanobox.io/nodejs/angular/)
+For more details about running angular apps with nanobox visit [guides.nanobox.io/javascript/angular/](https://guides.nanobox.io/javascript/angular/)
