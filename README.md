@@ -24,7 +24,7 @@ nanobox run npm start
 nanobox dns add local angular.dev
 ```
 
-Visit your app -> [angular.dev:3000](http://angular.dev:3000)
+Visit your app at <a href="http://angular.dev:3000" target="\_blank">angular.dev:3000</a>
 
 #### Explore
 
@@ -34,7 +34,7 @@ With Nanobox, you don't have to have anything installed on your machine to run y
 # drop into a Nanobox console
 nanobox run
 
-# where nodejs is installed,
+# where node is installed,
 node -v
 
 # your packages are available,
@@ -45,4 +45,4 @@ ls
 ```
 
 #### Now What?
-For more details about running angular apps with nanobox visit [guides.nanobox.io/javascript/angular/](https://guides.nanobox.io/javascript/angular/)
+For more details about running angular apps with nanobox visit [guides.nanobox.io/nodejs/angular/](https://guides.nanobox.io/nodejs/angular/)
