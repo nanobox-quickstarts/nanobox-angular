@@ -1,6 +1,13 @@
 ![Angular from scratch](https://guides.nanobox.io/assets/quickstart-icons/angular.png)
 
-#### Clone the repo
+# Angular from scratch
+
+Run a Angular app locally, install nothing besides nanobox. 
+
+<a href="https://nanobox.io/download"><img src="https://guides.nanobox.io/assets/quickstart-icons/download.png" /></a>
+
+
+## Clone the repo
 
 ```bash
 # clone the code
@@ -10,14 +17,14 @@ git clone https://github.com/nanobox-quickstarts/nanobox-angular.git
 cd nanobox-angular
 ```
 
-#### Run the app
+## Run the app
 
 ```bash
 # Run angular as you would normally, with Nanobox
 nanobox run npm start
 ```
 
-#### Check it out
+## Check it out
 
 ```bash
 # Add a convenient way to access your app from the browser
@@ -26,7 +33,7 @@ nanobox dns add local angular.dev
 
 Visit your app at <a href="http://angular.dev:3000" target="\_blank">angular.dev:3000</a>
 
-#### Explore
+## Explore
 
 With Nanobox, you don't have to have anything installed on your machine to run your app:
 
@@ -44,5 +51,7 @@ npm list
 ls
 ```
 
-#### Now What?
+## Now What?
 For more details about running angular apps with nanobox visit [guides.nanobox.io/nodejs/angular/](https://guides.nanobox.io/nodejs/angular/)
+
+<a href="https://nanobox.io"><img src="https://guides.nanobox.io/assets/quickstart-icons/footer.png" /></a>
