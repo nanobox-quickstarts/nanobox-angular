@@ -50,6 +50,7 @@ ls
 ```
 
 ## Now What?
+
 For more details about running angular apps with nanobox visit [guides.nanobox.io/javascript/angular/](https://guides.nanobox.io/javascript/angular/)
 
 <a href="https://nanobox.io"><img src="https://guides.nanobox.io/assets/quickstart-icons/footer.png" /></a>
