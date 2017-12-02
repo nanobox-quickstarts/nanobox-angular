@@ -20,11 +20,11 @@ cd nanobox-angular
 ## Run the app
 
 ```bash
-# Add a convenient way to access your app from the browser
-nanobox dns add local angular.dev
-
 # Run angular as you would normally, with Nanobox
 nanobox run npm start
+
+# Add a convenient way to access your app from the browser
+nanobox dns add local angular.dev
 ```
 
 ## Check it out
